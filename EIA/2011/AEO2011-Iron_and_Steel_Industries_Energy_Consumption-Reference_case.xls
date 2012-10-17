@@ -1,0 +1,4889 @@
+
+	
+<HTML xmlns="http://www.w3.org/1999/xhtml">
+	<HEAD>
+		<META http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+		<META name="robots" content="noindex"/>
+		<TITLE>Iron and Steel Industries Energy Consumption, Reference case</TITLE>
+
+	</HEAD>
+
+
+
+
+<TABLE>
+	
+	<THEAD>
+		
+		<TR>
+			<TH COLSPAN="30" ALIGN="LEFT"><H3>Iron and Steel Industries Energy Consumption, Reference case<BR></H3></TH>
+		</TR>
+		
+		
+		<TR style="border-top: .5pt solid black; border-bottom: .5pt solid black;">
+			<TD COLSPAN="1" ROWSPAN="1" style="border-right: .5pt solid black;"><B>Shipments and Energy Consumption</B></TD>
+		
+				<TD ROWSPAN="1" COLSPAN="1" style="text-align:center;"><B>2008</B></TD>
+			
+				<TD ROWSPAN="1" COLSPAN="1" style="text-align:center;"><B>2009</B></TD>
+					
+					<TD COLSPAN="1" style="text-align:center;"><B>2010</B></TD>
+						
+					<TD COLSPAN="1" style="text-align:center;"><B>2011</B></TD>
+						
+					<TD COLSPAN="1" style="text-align:center;"><B>2012</B></TD>
+						
+					<TD COLSPAN="1" style="text-align:center;"><B>2013</B></TD>
+						
+					<TD COLSPAN="1" style="text-align:center;"><B>2014</B></TD>
+						
+					<TD COLSPAN="1" style="text-align:center;"><B>2015</B></TD>
+						
+					<TD COLSPAN="1" style="text-align:center;"><B>2016</B></TD>
+						
+					<TD COLSPAN="1" style="text-align:center;"><B>2017</B></TD>
+						
+					<TD COLSPAN="1" style="text-align:center;"><B>2018</B></TD>
+						
+					<TD COLSPAN="1" style="text-align:center;"><B>2019</B></TD>
+						
+					<TD COLSPAN="1" style="text-align:center;"><B>2020</B></TD>
+						
+					<TD COLSPAN="1" style="text-align:center;"><B>2021</B></TD>
+						
+					<TD COLSPAN="1" style="text-align:center;"><B>2022</B></TD>
+						
+					<TD COLSPAN="1" style="text-align:center;"><B>2023</B></TD>
+						
+					<TD COLSPAN="1" style="text-align:center;"><B>2024</B></TD>
+						
+					<TD COLSPAN="1" style="text-align:center;"><B>2025</B></TD>
+						
+					<TD COLSPAN="1" style="text-align:center;"><B>2026</B></TD>
+						
+					<TD COLSPAN="1" style="text-align:center;"><B>2027</B></TD>
+						
+					<TD COLSPAN="1" style="text-align:center;"><B>2028</B></TD>
+						
+					<TD COLSPAN="1" style="text-align:center;"><B>2029</B></TD>
+						
+					<TD COLSPAN="1" style="text-align:center;"><B>2030</B></TD>
+						
+					<TD COLSPAN="1" style="text-align:center;"><B>2031</B></TD>
+						
+					<TD COLSPAN="1" style="text-align:center;"><B>2032</B></TD>
+						
+					<TD COLSPAN="1" style="text-align:center;"><B>2033</B></TD>
+						
+					<TD COLSPAN="1" style="text-align:center;"><B>2034</B></TD>
+						
+					<TD COLSPAN="1" style="text-align:center;"><B>2035</B></TD>
+						
+					<TD COLSPAN="1" style="text-align:center;"><B>Growth Rate (2009-2035)</B></TD>
+				
+		</TR>
+		
+	</THEAD>
+	
+	
+	<TBODY>
+		
+				<TR>
+					<TD style="border-right: .5pt solid black;"></TD>
+					
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;" COLSPAN="1"><B>Value&nbsp;of&nbsp;Shipments&nbsp;(billion&nbsp;2005&nbsp;dollars)</B></TD>
+					
+					
+							<TD  COLSPAN="1">
+								<B> 105.52 </B>
+							</TD>
+						
+							<TD  COLSPAN="1">
+								<B> 61.65 </B>
+							</TD>
+						
+									<TD COLSPAN="1">
+										<B> 96.39 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 103.81 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 102.67 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 110.96 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 106.43 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 108.61 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 110.00 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 112.83 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 115.01 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 116.83 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 120.60 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 123.84 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 125.18 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 125.09 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 124.29 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 122.96 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 121.49 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 119.99 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 118.83 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 118.35 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 117.62 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 116.75 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 115.55 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 114.45 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 112.95 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 110.96 </B>
+									</TD>
+								
+								<TD COLSPAN="1">
+									<B> 2.3%
+									</B>
+								</TD>
+							
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;"></TD>
+					
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;" COLSPAN="1"><B>Energy&nbsp;Consumption&nbsp;(trillion&nbsp;Btu)&nbsp;1/</B></TD>
+					
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;" COLSPAN="1">&nbsp;Distillate&nbsp;Fuel&nbsp;Oil</TD>
+					
+					
+							<TD  COLSPAN="1">
+								2.3 
+							</TD>
+						
+							<TD  COLSPAN="1">
+								1.8 
+							</TD>
+						
+									<TD COLSPAN="1">
+										2.1 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.3 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.5 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.8 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.8 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.8 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.8 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.7 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.7 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.7 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.7 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.7 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.6 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.6 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.5 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.4 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.3 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.2 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.1 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.1 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.0 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.0 
+									</TD>
+								
+									<TD COLSPAN="1">
+										1.9 
+									</TD>
+								
+									<TD COLSPAN="1">
+										1.8 
+									</TD>
+								
+									<TD COLSPAN="1">
+										1.8 
+									</TD>
+								
+									<TD COLSPAN="1">
+										1.7 
+									</TD>
+								
+								<TD COLSPAN="1">
+									-0.3%
+									
+								</TD>
+							
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;" COLSPAN="1">&nbsp;Residual&nbsp;Fuel&nbsp;Oil</TD>
+					
+					
+							<TD  COLSPAN="1">
+								12.9 
+							</TD>
+						
+							<TD  COLSPAN="1">
+								2.9 
+							</TD>
+						
+									<TD COLSPAN="1">
+										8.1 
+									</TD>
+								
+									<TD COLSPAN="1">
+										8.6 
+									</TD>
+								
+									<TD COLSPAN="1">
+										7.5 
+									</TD>
+								
+									<TD COLSPAN="1">
+										8.1 
+									</TD>
+								
+									<TD COLSPAN="1">
+										6.8 
+									</TD>
+								
+									<TD COLSPAN="1">
+										6.6 
+									</TD>
+								
+									<TD COLSPAN="1">
+										6.2 
+									</TD>
+								
+									<TD COLSPAN="1">
+										6.0 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.8 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.6 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.6 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.6 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.3 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.0 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.5 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.0 
+									</TD>
+								
+									<TD COLSPAN="1">
+										3.7 
+									</TD>
+								
+									<TD COLSPAN="1">
+										3.6 
+									</TD>
+								
+									<TD COLSPAN="1">
+										3.5 
+									</TD>
+								
+									<TD COLSPAN="1">
+										3.5 
+									</TD>
+								
+									<TD COLSPAN="1">
+										3.4 
+									</TD>
+								
+									<TD COLSPAN="1">
+										3.3 
+									</TD>
+								
+									<TD COLSPAN="1">
+										3.3 
+									</TD>
+								
+									<TD COLSPAN="1">
+										3.2 
+									</TD>
+								
+									<TD COLSPAN="1">
+										3.1 
+									</TD>
+								
+									<TD COLSPAN="1">
+										3.1 
+									</TD>
+								
+								<TD COLSPAN="1">
+									0.2%
+									
+								</TD>
+							
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;" COLSPAN="1">&nbsp;Other&nbsp;Petroleum&nbsp;2/</TD>
+					
+					
+							<TD  COLSPAN="1">
+								29.9 
+							</TD>
+						
+							<TD  COLSPAN="1">
+								0.5 
+							</TD>
+						
+									<TD COLSPAN="1">
+										14.9 
+									</TD>
+								
+									<TD COLSPAN="1">
+										16.1 
+									</TD>
+								
+									<TD COLSPAN="1">
+										12.9 
+									</TD>
+								
+									<TD COLSPAN="1">
+										14.3 
+									</TD>
+								
+									<TD COLSPAN="1">
+										10.4 
+									</TD>
+								
+									<TD COLSPAN="1">
+										9.7 
+									</TD>
+								
+									<TD COLSPAN="1">
+										8.5 
+									</TD>
+								
+									<TD COLSPAN="1">
+										8.0 
+									</TD>
+								
+									<TD COLSPAN="1">
+										7.3 
+									</TD>
+								
+									<TD COLSPAN="1">
+										6.5 
+									</TD>
+								
+									<TD COLSPAN="1">
+										6.6 
+									</TD>
+								
+									<TD COLSPAN="1">
+										6.4 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.5 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.3 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.9 
+									</TD>
+								
+									<TD COLSPAN="1">
+										1.3 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.5 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.5 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.5 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.5 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.5 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.5 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.5 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.5 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.5 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.5 
+									</TD>
+								
+								<TD COLSPAN="1">
+									0.1%
+									
+								</TD>
+							
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;" COLSPAN="1">&nbsp;&nbsp;&nbsp;Petroleum&nbsp;Subtotal</TD>
+					
+					
+							<TD  COLSPAN="1">
+								45.2 
+							</TD>
+						
+							<TD  COLSPAN="1">
+								5.2 
+							</TD>
+						
+									<TD COLSPAN="1">
+										25.1 
+									</TD>
+								
+									<TD COLSPAN="1">
+										27.1 
+									</TD>
+								
+									<TD COLSPAN="1">
+										22.9 
+									</TD>
+								
+									<TD COLSPAN="1">
+										25.2 
+									</TD>
+								
+									<TD COLSPAN="1">
+										19.9 
+									</TD>
+								
+									<TD COLSPAN="1">
+										19.0 
+									</TD>
+								
+									<TD COLSPAN="1">
+										17.5 
+									</TD>
+								
+									<TD COLSPAN="1">
+										16.8 
+									</TD>
+								
+									<TD COLSPAN="1">
+										15.8 
+									</TD>
+								
+									<TD COLSPAN="1">
+										14.7 
+									</TD>
+								
+									<TD COLSPAN="1">
+										14.9 
+									</TD>
+								
+									<TD COLSPAN="1">
+										14.6 
+									</TD>
+								
+									<TD COLSPAN="1">
+										13.5 
+									</TD>
+								
+									<TD COLSPAN="1">
+										11.8 
+									</TD>
+								
+									<TD COLSPAN="1">
+										9.9 
+									</TD>
+								
+									<TD COLSPAN="1">
+										7.7 
+									</TD>
+								
+									<TD COLSPAN="1">
+										6.6 
+									</TD>
+								
+									<TD COLSPAN="1">
+										6.4 
+									</TD>
+								
+									<TD COLSPAN="1">
+										6.2 
+									</TD>
+								
+									<TD COLSPAN="1">
+										6.1 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.9 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.8 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.7 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.5 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.4 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.2 
+									</TD>
+								
+								<TD COLSPAN="1">
+									-0.0%
+									
+								</TD>
+							
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;" COLSPAN="1">&nbsp;Natural&nbsp;Gas</TD>
+					
+					
+							<TD  COLSPAN="1">
+								347.2 
+							</TD>
+						
+							<TD  COLSPAN="1">
+								214.8 
+							</TD>
+						
+									<TD COLSPAN="1">
+										322.1 
+									</TD>
+								
+									<TD COLSPAN="1">
+										345.8 
+									</TD>
+								
+									<TD COLSPAN="1">
+										339.7 
+									</TD>
+								
+									<TD COLSPAN="1">
+										361.8 
+									</TD>
+								
+									<TD COLSPAN="1">
+										344.7 
+									</TD>
+								
+									<TD COLSPAN="1">
+										347.7 
+									</TD>
+								
+									<TD COLSPAN="1">
+										347.1 
+									</TD>
+								
+									<TD COLSPAN="1">
+										350.3 
+									</TD>
+								
+									<TD COLSPAN="1">
+										351.8 
+									</TD>
+								
+									<TD COLSPAN="1">
+										352.2 
+									</TD>
+								
+									<TD COLSPAN="1">
+										357.4 
+									</TD>
+								
+									<TD COLSPAN="1">
+										361.5 
+									</TD>
+								
+									<TD COLSPAN="1">
+										360.6 
+									</TD>
+								
+									<TD COLSPAN="1">
+										355.9 
+									</TD>
+								
+									<TD COLSPAN="1">
+										349.4 
+									</TD>
+								
+									<TD COLSPAN="1">
+										341.8 
+									</TD>
+								
+									<TD COLSPAN="1">
+										335.0 
+									</TD>
+								
+									<TD COLSPAN="1">
+										329.1 
+									</TD>
+								
+									<TD COLSPAN="1">
+										324.1 
+									</TD>
+								
+									<TD COLSPAN="1">
+										320.8 
+									</TD>
+								
+									<TD COLSPAN="1">
+										317.1 
+									</TD>
+								
+									<TD COLSPAN="1">
+										313.0 
+									</TD>
+								
+									<TD COLSPAN="1">
+										308.4 
+									</TD>
+								
+									<TD COLSPAN="1">
+										304.0 
+									</TD>
+								
+									<TD COLSPAN="1">
+										298.8 
+									</TD>
+								
+									<TD COLSPAN="1">
+										292.5 
+									</TD>
+								
+								<TD COLSPAN="1">
+									1.2%
+									
+								</TD>
+							
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;" COLSPAN="1">&nbsp;Metallurgical&nbsp;Coal</TD>
+					
+					
+							<TD  COLSPAN="1">
+								618.4 
+							</TD>
+						
+							<TD  COLSPAN="1">
+								477.5 
+							</TD>
+						
+									<TD COLSPAN="1">
+										574.5 
+									</TD>
+								
+									<TD COLSPAN="1">
+										588.0 
+									</TD>
+								
+									<TD COLSPAN="1">
+										575.7 
+									</TD>
+								
+									<TD COLSPAN="1">
+										589.3 
+									</TD>
+								
+									<TD COLSPAN="1">
+										568.5 
+									</TD>
+								
+									<TD COLSPAN="1">
+										566.3 
+									</TD>
+								
+									<TD COLSPAN="1">
+										562.1 
+									</TD>
+								
+									<TD COLSPAN="1">
+										562.0 
+									</TD>
+								
+									<TD COLSPAN="1">
+										560.4 
+									</TD>
+								
+									<TD COLSPAN="1">
+										558.0 
+									</TD>
+								
+									<TD COLSPAN="1">
+										561.1 
+									</TD>
+								
+									<TD COLSPAN="1">
+										563.0 
+									</TD>
+								
+									<TD COLSPAN="1">
+										560.1 
+									</TD>
+								
+									<TD COLSPAN="1">
+										553.5 
+									</TD>
+								
+									<TD COLSPAN="1">
+										545.3 
+									</TD>
+								
+									<TD COLSPAN="1">
+										536.0 
+									</TD>
+								
+									<TD COLSPAN="1">
+										526.4 
+									</TD>
+								
+									<TD COLSPAN="1">
+										517.0 
+									</TD>
+								
+									<TD COLSPAN="1">
+										508.6 
+									</TD>
+								
+									<TD COLSPAN="1">
+										502.2 
+									</TD>
+								
+									<TD COLSPAN="1">
+										495.4 
+									</TD>
+								
+									<TD COLSPAN="1">
+										488.3 
+									</TD>
+								
+									<TD COLSPAN="1">
+										480.6 
+									</TD>
+								
+									<TD COLSPAN="1">
+										473.6 
+									</TD>
+								
+									<TD COLSPAN="1">
+										465.7 
+									</TD>
+								
+									<TD COLSPAN="1">
+										456.6 
+									</TD>
+								
+								<TD COLSPAN="1">
+									-0.2%
+									
+								</TD>
+							
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;" COLSPAN="1">&nbsp;Net&nbsp;Coke&nbsp;Imports</TD>
+					
+					
+							<TD  COLSPAN="1">
+								13.3 
+							</TD>
+						
+							<TD  COLSPAN="1">
+								-2.5 
+							</TD>
+						
+									<TD COLSPAN="1">
+										7.4 
+									</TD>
+								
+									<TD COLSPAN="1">
+										8.7 
+									</TD>
+								
+									<TD COLSPAN="1">
+										7.2 
+									</TD>
+								
+									<TD COLSPAN="1">
+										8.8 
+									</TD>
+								
+									<TD COLSPAN="1">
+										6.4 
+									</TD>
+								
+									<TD COLSPAN="1">
+										6.2 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.8 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.9 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.7 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.5 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.9 
+									</TD>
+								
+									<TD COLSPAN="1">
+										6.2 
+									</TD>
+								
+									<TD COLSPAN="1">
+										6.0 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.3 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.5 
+									</TD>
+								
+									<TD COLSPAN="1">
+										3.6 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.6 
+									</TD>
+								
+									<TD COLSPAN="1">
+										1.7 
+									</TD>
+								
+									<TD COLSPAN="1">
+										1.0 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.5 
+									</TD>
+								
+									<TD COLSPAN="1">
+										-0.1 
+									</TD>
+								
+									<TD COLSPAN="1">
+										-0.7 
+									</TD>
+								
+									<TD COLSPAN="1">
+										-1.3 
+									</TD>
+								
+									<TD COLSPAN="1">
+										-1.9 
+									</TD>
+								
+									<TD COLSPAN="1">
+										-2.6 
+									</TD>
+								
+									<TD COLSPAN="1">
+										-3.4 
+									</TD>
+								
+								<TD COLSPAN="1">
+									1.2%
+									
+								</TD>
+							
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;" COLSPAN="1">&nbsp;Steam&nbsp;Coal</TD>
+					
+					
+							<TD  COLSPAN="1">
+								67.2 
+							</TD>
+						
+							<TD  COLSPAN="1">
+								58.8 
+							</TD>
+						
+									<TD COLSPAN="1">
+										64.7 
+									</TD>
+								
+									<TD COLSPAN="1">
+										65.7 
+									</TD>
+								
+									<TD COLSPAN="1">
+										65.1 
+									</TD>
+								
+									<TD COLSPAN="1">
+										66.2 
+									</TD>
+								
+									<TD COLSPAN="1">
+										65.1 
+									</TD>
+								
+									<TD COLSPAN="1">
+										65.1 
+									</TD>
+								
+									<TD COLSPAN="1">
+										65.0 
+									</TD>
+								
+									<TD COLSPAN="1">
+										65.2 
+									</TD>
+								
+									<TD COLSPAN="1">
+										65.3 
+									</TD>
+								
+									<TD COLSPAN="1">
+										65.3 
+									</TD>
+								
+									<TD COLSPAN="1">
+										65.7 
+									</TD>
+								
+									<TD COLSPAN="1">
+										66.0 
+									</TD>
+								
+									<TD COLSPAN="1">
+										66.0 
+									</TD>
+								
+									<TD COLSPAN="1">
+										65.7 
+									</TD>
+								
+									<TD COLSPAN="1">
+										65.3 
+									</TD>
+								
+									<TD COLSPAN="1">
+										64.8 
+									</TD>
+								
+									<TD COLSPAN="1">
+										64.3 
+									</TD>
+								
+									<TD COLSPAN="1">
+										63.8 
+									</TD>
+								
+									<TD COLSPAN="1">
+										63.3 
+									</TD>
+								
+									<TD COLSPAN="1">
+										63.0 
+									</TD>
+								
+									<TD COLSPAN="1">
+										62.7 
+									</TD>
+								
+									<TD COLSPAN="1">
+										62.3 
+									</TD>
+								
+									<TD COLSPAN="1">
+										61.9 
+									</TD>
+								
+									<TD COLSPAN="1">
+										61.5 
+									</TD>
+								
+									<TD COLSPAN="1">
+										61.0 
+									</TD>
+								
+									<TD COLSPAN="1">
+										60.5 
+									</TD>
+								
+								<TD COLSPAN="1">
+									0.1%
+									
+								</TD>
+							
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;" COLSPAN="1">&nbsp;&nbsp;&nbsp;Coal&nbsp;Subtotal</TD>
+					
+					
+							<TD  COLSPAN="1">
+								698.9 
+							</TD>
+						
+							<TD  COLSPAN="1">
+								533.8 
+							</TD>
+						
+									<TD COLSPAN="1">
+										646.6 
+									</TD>
+								
+									<TD COLSPAN="1">
+										662.3 
+									</TD>
+								
+									<TD COLSPAN="1">
+										648.0 
+									</TD>
+								
+									<TD COLSPAN="1">
+										664.4 
+									</TD>
+								
+									<TD COLSPAN="1">
+										640.0 
+									</TD>
+								
+									<TD COLSPAN="1">
+										637.6 
+									</TD>
+								
+									<TD COLSPAN="1">
+										632.9 
+									</TD>
+								
+									<TD COLSPAN="1">
+										633.1 
+									</TD>
+								
+									<TD COLSPAN="1">
+										631.4 
+									</TD>
+								
+									<TD COLSPAN="1">
+										628.9 
+									</TD>
+								
+									<TD COLSPAN="1">
+										632.8 
+									</TD>
+								
+									<TD COLSPAN="1">
+										635.3 
+									</TD>
+								
+									<TD COLSPAN="1">
+										632.0 
+									</TD>
+								
+									<TD COLSPAN="1">
+										624.5 
+									</TD>
+								
+									<TD COLSPAN="1">
+										615.1 
+									</TD>
+								
+									<TD COLSPAN="1">
+										604.3 
+									</TD>
+								
+									<TD COLSPAN="1">
+										593.3 
+									</TD>
+								
+									<TD COLSPAN="1">
+										582.5 
+									</TD>
+								
+									<TD COLSPAN="1">
+										572.9 
+									</TD>
+								
+									<TD COLSPAN="1">
+										565.7 
+									</TD>
+								
+									<TD COLSPAN="1">
+										557.9 
+									</TD>
+								
+									<TD COLSPAN="1">
+										549.9 
+									</TD>
+								
+									<TD COLSPAN="1">
+										541.1 
+									</TD>
+								
+									<TD COLSPAN="1">
+										533.2 
+									</TD>
+								
+									<TD COLSPAN="1">
+										524.1 
+									</TD>
+								
+									<TD COLSPAN="1">
+										513.7 
+									</TD>
+								
+								<TD COLSPAN="1">
+									-0.1%
+									
+								</TD>
+							
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;" COLSPAN="1">&nbsp;Renewables</TD>
+					
+					
+							<TD  COLSPAN="1">
+								4.2 
+							</TD>
+						
+							<TD  COLSPAN="1">
+								4.2 
+							</TD>
+						
+									<TD COLSPAN="1">
+										4.2 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.2 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.2 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.2 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.2 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.2 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.2 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.2 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.2 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.2 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.2 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.2 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.2 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.2 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.2 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.2 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.2 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.2 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.2 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.2 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.2 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.2 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.2 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.2 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.2 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.2 
+									</TD>
+								
+								<TD COLSPAN="1">
+									0.0%
+									
+								</TD>
+							
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;" COLSPAN="1">&nbsp;Purchased&nbsp;Electricity</TD>
+					
+					
+							<TD  COLSPAN="1">
+								151.7 
+							</TD>
+						
+							<TD  COLSPAN="1">
+								72.9 
+							</TD>
+						
+									<TD COLSPAN="1">
+										134.0 
+									</TD>
+								
+									<TD COLSPAN="1">
+										148.0 
+									</TD>
+								
+									<TD COLSPAN="1">
+										145.8 
+									</TD>
+								
+									<TD COLSPAN="1">
+										160.2 
+									</TD>
+								
+									<TD COLSPAN="1">
+										152.6 
+									</TD>
+								
+									<TD COLSPAN="1">
+										156.1 
+									</TD>
+								
+									<TD COLSPAN="1">
+										157.7 
+									</TD>
+								
+									<TD COLSPAN="1">
+										161.3 
+									</TD>
+								
+									<TD COLSPAN="1">
+										164.0 
+									</TD>
+								
+									<TD COLSPAN="1">
+										166.1 
+									</TD>
+								
+									<TD COLSPAN="1">
+										171.1 
+									</TD>
+								
+									<TD COLSPAN="1">
+										175.4 
+									</TD>
+								
+									<TD COLSPAN="1">
+										176.6 
+									</TD>
+								
+									<TD COLSPAN="1">
+										175.6 
+									</TD>
+								
+									<TD COLSPAN="1">
+										173.6 
+									</TD>
+								
+									<TD COLSPAN="1">
+										170.7 
+									</TD>
+								
+									<TD COLSPAN="1">
+										167.6 
+									</TD>
+								
+									<TD COLSPAN="1">
+										164.5 
+									</TD>
+								
+									<TD COLSPAN="1">
+										161.9 
+									</TD>
+								
+									<TD COLSPAN="1">
+										160.3 
+									</TD>
+								
+									<TD COLSPAN="1">
+										158.4 
+									</TD>
+								
+									<TD COLSPAN="1">
+										156.2 
+									</TD>
+								
+									<TD COLSPAN="1">
+										153.6 
+									</TD>
+								
+									<TD COLSPAN="1">
+										151.2 
+									</TD>
+								
+									<TD COLSPAN="1">
+										148.3 
+									</TD>
+								
+									<TD COLSPAN="1">
+										144.6 
+									</TD>
+								
+								<TD COLSPAN="1">
+									2.7%
+									
+								</TD>
+							
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;" COLSPAN="1"><B>&nbsp;&nbsp;&nbsp;Total</B></TD>
+					
+					
+							<TD  COLSPAN="1">
+								<B> 1247.2 </B>
+							</TD>
+						
+							<TD  COLSPAN="1">
+								<B> 831.0 </B>
+							</TD>
+						
+									<TD COLSPAN="1">
+										<B> 1132.1 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 1187.4 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 1160.7 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 1215.9 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 1161.6 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 1164.7 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 1159.4 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 1165.6 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 1167.2 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 1166.2 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 1180.4 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 1191.0 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 1186.9 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 1172.1 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 1152.2 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 1128.7 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 1106.7 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 1086.6 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 1069.3 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 1057.1 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 1043.5 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 1029.1 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 1013.0 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 998.1 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 980.8 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 960.3 </B>
+									</TD>
+								
+								<TD COLSPAN="1">
+									<B> 0.6%
+									</B>
+								</TD>
+							
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;"></TD>
+					
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;" COLSPAN="1"><B>Energy&nbsp;Consumption&nbsp;per&nbsp;Unit&nbsp;of&nbsp;Output</B></TD>
+					
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;" COLSPAN="1"><B>(thousand&nbsp;Btu&nbsp;per&nbsp;2005&nbsp;dollar&nbsp;shipments)</B></TD>
+					
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;" COLSPAN="1">&nbsp;Distillate&nbsp;Fuel&nbsp;Oil</TD>
+					
+					
+							<TD  COLSPAN="1">
+								0.02 
+							</TD>
+						
+							<TD  COLSPAN="1">
+								0.03 
+							</TD>
+						
+									<TD COLSPAN="1">
+										0.02 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.02 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.02 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.03 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.03 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.03 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.03 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.02 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.02 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.02 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.02 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.02 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.02 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.02 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.02 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.02 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.02 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.02 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.02 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.02 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.02 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.02 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.02 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.02 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.02 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.02 
+									</TD>
+								
+								<TD COLSPAN="1">
+									-2.6%
+									
+								</TD>
+							
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;" COLSPAN="1">&nbsp;Residual&nbsp;Fuel&nbsp;Oil</TD>
+					
+					
+							<TD  COLSPAN="1">
+								0.12 
+							</TD>
+						
+							<TD  COLSPAN="1">
+								0.05 
+							</TD>
+						
+									<TD COLSPAN="1">
+										0.08 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.08 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.07 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.07 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.06 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.06 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.06 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.05 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.05 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.05 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.05 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.05 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.04 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.04 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.04 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.03 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.03 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.03 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.03 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.03 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.03 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.03 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.03 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.03 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.03 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.03 
+									</TD>
+								
+								<TD COLSPAN="1">
+									-2.0%
+									
+								</TD>
+							
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;" COLSPAN="1">&nbsp;Other&nbsp;Petroleum&nbsp;2/</TD>
+					
+					
+							<TD  COLSPAN="1">
+								0.28 
+							</TD>
+						
+							<TD  COLSPAN="1">
+								0.01 
+							</TD>
+						
+									<TD COLSPAN="1">
+										0.15 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.16 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.13 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.13 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.10 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.09 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.08 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.07 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.06 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.06 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.05 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.05 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.04 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.03 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.02 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.01 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.00 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.00 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.00 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.00 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.00 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.00 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.00 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.00 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.00 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.00 
+									</TD>
+								
+								<TD COLSPAN="1">
+									-2.2%
+									
+								</TD>
+							
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;" COLSPAN="1">&nbsp;&nbsp;&nbsp;Petroleum&nbsp;Subtotal</TD>
+					
+					
+							<TD  COLSPAN="1">
+								0.43 
+							</TD>
+						
+							<TD  COLSPAN="1">
+								0.08 
+							</TD>
+						
+									<TD COLSPAN="1">
+										0.26 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.26 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.22 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.23 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.19 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.18 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.16 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.15 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.14 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.13 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.12 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.12 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.11 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.09 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.08 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.06 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.05 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.05 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.05 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.05 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.05 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.05 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.05 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.05 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.05 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.05 
+									</TD>
+								
+								<TD COLSPAN="1">
+									-2.2%
+									
+								</TD>
+							
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;" COLSPAN="1">&nbsp;Natural&nbsp;Gas</TD>
+					
+					
+							<TD  COLSPAN="1">
+								3.29 
+							</TD>
+						
+							<TD  COLSPAN="1">
+								3.49 
+							</TD>
+						
+									<TD COLSPAN="1">
+										3.34 
+									</TD>
+								
+									<TD COLSPAN="1">
+										3.33 
+									</TD>
+								
+									<TD COLSPAN="1">
+										3.31 
+									</TD>
+								
+									<TD COLSPAN="1">
+										3.26 
+									</TD>
+								
+									<TD COLSPAN="1">
+										3.24 
+									</TD>
+								
+									<TD COLSPAN="1">
+										3.20 
+									</TD>
+								
+									<TD COLSPAN="1">
+										3.16 
+									</TD>
+								
+									<TD COLSPAN="1">
+										3.10 
+									</TD>
+								
+									<TD COLSPAN="1">
+										3.06 
+									</TD>
+								
+									<TD COLSPAN="1">
+										3.01 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.96 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.92 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.88 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.85 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.81 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.78 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.76 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.74 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.73 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.71 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.70 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.68 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.67 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.66 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.65 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.64 
+									</TD>
+								
+								<TD COLSPAN="1">
+									-1.1%
+									
+								</TD>
+							
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;" COLSPAN="1">&nbsp;Metallurgical&nbsp;Coal</TD>
+					
+					
+							<TD  COLSPAN="1">
+								5.86 
+							</TD>
+						
+							<TD  COLSPAN="1">
+								7.74 
+							</TD>
+						
+									<TD COLSPAN="1">
+										5.96 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.66 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.61 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.31 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.34 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.21 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.11 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.98 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.87 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.78 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.65 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.55 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.47 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.43 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.39 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.36 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.33 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.31 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.28 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.24 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.21 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.18 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.16 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.14 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.12 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.11 
+									</TD>
+								
+								<TD COLSPAN="1">
+									-2.4%
+									
+								</TD>
+							
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;" COLSPAN="1">&nbsp;Net&nbsp;Coke&nbsp;Imports</TD>
+					
+					
+							<TD  COLSPAN="1">
+								0.13 
+							</TD>
+						
+							<TD  COLSPAN="1">
+								-0.04 
+							</TD>
+						
+									<TD COLSPAN="1">
+										0.08 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.08 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.07 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.08 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.06 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.06 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.05 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.05 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.05 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.05 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.05 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.05 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.05 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.04 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.04 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.03 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.02 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.01 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.01 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.00 
+									</TD>
+								
+									<TD COLSPAN="1">
+										-0.00 
+									</TD>
+								
+									<TD COLSPAN="1">
+										-0.01 
+									</TD>
+								
+									<TD COLSPAN="1">
+										-0.01 
+									</TD>
+								
+									<TD COLSPAN="1">
+										-0.02 
+									</TD>
+								
+									<TD COLSPAN="1">
+										-0.02 
+									</TD>
+								
+									<TD COLSPAN="1">
+										-0.03 
+									</TD>
+								
+								<TD COLSPAN="1">
+									-1.0%
+									
+								</TD>
+							
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;" COLSPAN="1">&nbsp;Steam&nbsp;Coal</TD>
+					
+					
+							<TD  COLSPAN="1">
+								0.64 
+							</TD>
+						
+							<TD  COLSPAN="1">
+								0.95 
+							</TD>
+						
+									<TD COLSPAN="1">
+										0.67 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.63 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.63 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.60 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.61 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.60 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.59 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.58 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.57 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.56 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.54 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.53 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.53 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.53 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.53 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.53 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.53 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.53 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.53 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.53 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.53 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.53 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.54 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.54 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.54 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.54 
+									</TD>
+								
+								<TD COLSPAN="1">
+									-2.1%
+									
+								</TD>
+							
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;" COLSPAN="1">&nbsp;&nbsp;&nbsp;Coal&nbsp;Subtotal</TD>
+					
+					
+							<TD  COLSPAN="1">
+								6.62 
+							</TD>
+						
+							<TD  COLSPAN="1">
+								8.66 
+							</TD>
+						
+									<TD COLSPAN="1">
+										6.71 
+									</TD>
+								
+									<TD COLSPAN="1">
+										6.38 
+									</TD>
+								
+									<TD COLSPAN="1">
+										6.31 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.99 
+									</TD>
+								
+									<TD COLSPAN="1">
+										6.01 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.87 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.75 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.61 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.49 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.38 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.25 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.13 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.05 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.99 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.95 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.91 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.88 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.85 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.82 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.78 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.74 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.71 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.68 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.66 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.64 
+									</TD>
+								
+									<TD COLSPAN="1">
+										4.63 
+									</TD>
+								
+								<TD COLSPAN="1">
+									-2.4%
+									
+								</TD>
+							
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;" COLSPAN="1">&nbsp;Renewables</TD>
+					
+					
+							<TD  COLSPAN="1">
+								0.04 
+							</TD>
+						
+							<TD  COLSPAN="1">
+								0.07 
+							</TD>
+						
+									<TD COLSPAN="1">
+										0.04 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.04 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.04 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.04 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.04 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.04 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.04 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.04 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.04 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.04 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.04 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.03 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.03 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.03 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.03 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.03 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.03 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.04 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.04 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.04 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.04 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.04 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.04 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.04 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.04 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.04 
+									</TD>
+								
+								<TD COLSPAN="1">
+									-2.2%
+									
+								</TD>
+							
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;" COLSPAN="1">&nbsp;Purchased&nbsp;Electricity</TD>
+					
+					
+							<TD  COLSPAN="1">
+								1.44 
+							</TD>
+						
+							<TD  COLSPAN="1">
+								1.18 
+							</TD>
+						
+									<TD COLSPAN="1">
+										1.39 
+									</TD>
+								
+									<TD COLSPAN="1">
+										1.43 
+									</TD>
+								
+									<TD COLSPAN="1">
+										1.42 
+									</TD>
+								
+									<TD COLSPAN="1">
+										1.44 
+									</TD>
+								
+									<TD COLSPAN="1">
+										1.43 
+									</TD>
+								
+									<TD COLSPAN="1">
+										1.44 
+									</TD>
+								
+									<TD COLSPAN="1">
+										1.43 
+									</TD>
+								
+									<TD COLSPAN="1">
+										1.43 
+									</TD>
+								
+									<TD COLSPAN="1">
+										1.43 
+									</TD>
+								
+									<TD COLSPAN="1">
+										1.42 
+									</TD>
+								
+									<TD COLSPAN="1">
+										1.42 
+									</TD>
+								
+									<TD COLSPAN="1">
+										1.42 
+									</TD>
+								
+									<TD COLSPAN="1">
+										1.41 
+									</TD>
+								
+									<TD COLSPAN="1">
+										1.40 
+									</TD>
+								
+									<TD COLSPAN="1">
+										1.40 
+									</TD>
+								
+									<TD COLSPAN="1">
+										1.39 
+									</TD>
+								
+									<TD COLSPAN="1">
+										1.38 
+									</TD>
+								
+									<TD COLSPAN="1">
+										1.37 
+									</TD>
+								
+									<TD COLSPAN="1">
+										1.36 
+									</TD>
+								
+									<TD COLSPAN="1">
+										1.35 
+									</TD>
+								
+									<TD COLSPAN="1">
+										1.35 
+									</TD>
+								
+									<TD COLSPAN="1">
+										1.34 
+									</TD>
+								
+									<TD COLSPAN="1">
+										1.33 
+									</TD>
+								
+									<TD COLSPAN="1">
+										1.32 
+									</TD>
+								
+									<TD COLSPAN="1">
+										1.31 
+									</TD>
+								
+									<TD COLSPAN="1">
+										1.30 
+									</TD>
+								
+								<TD COLSPAN="1">
+									0.4%
+									
+								</TD>
+							
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;" COLSPAN="1"><B>&nbsp;&nbsp;&nbsp;Total</B></TD>
+					
+					
+							<TD  COLSPAN="1">
+								<B> 11.82 </B>
+							</TD>
+						
+							<TD  COLSPAN="1">
+								<B> 13.48 </B>
+							</TD>
+						
+									<TD COLSPAN="1">
+										<B> 11.74 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 11.44 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 11.31 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 10.96 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 10.91 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 10.72 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 10.54 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 10.33 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 10.15 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 9.98 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 9.79 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 9.62 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 9.48 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 9.37 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 9.27 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 9.18 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 9.11 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 9.06 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 9.00 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 8.93 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 8.87 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 8.81 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 8.77 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 8.72 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 8.68 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 8.65 </B>
+									</TD>
+								
+								<TD COLSPAN="1">
+									<B> -1.7%
+									</B>
+								</TD>
+							
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;"></TD>
+					
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;" COLSPAN="1"><B>Carbon&nbsp;Dioxide&nbsp;Emissions&nbsp;3/&nbsp;(million&nbsp;metric</B></TD>
+					
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;" COLSPAN="1"><B>&nbsp;tons&nbsp;carbon&nbsp;dioxide&nbsp;equivalent)</B></TD>
+					
+					
+							<TD  COLSPAN="1">
+								<B> 118.7 </B>
+							</TD>
+						
+							<TD  COLSPAN="1">
+								<B> 75.9 </B>
+							</TD>
+						
+									<TD COLSPAN="1">
+										<B> 106.1 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 111.1 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 108.2 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 112.9 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 107.5 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 107.6 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 107.2 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 107.8 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 108.2 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 108.4 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 110.3 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 112.0 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 112.0 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 110.9 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 109.6 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 107.5 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 105.5 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 103.6 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 102.0 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 100.8 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 99.4 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 97.9 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 96.3 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 94.9 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 93.2 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 91.2 </B>
+									</TD>
+								
+								<TD COLSPAN="1">
+									<B> 0.7%
+									</B>
+								</TD>
+							
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;"></TD>
+					
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;" COLSPAN="1"><B>Combined&nbsp;Heat&nbsp;and&nbsp;Power&nbsp;4/</B></TD>
+					
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;" COLSPAN="1"><B>&nbsp;&nbsp;Generating&nbsp;Capacity&nbsp;(gigawatts)</B></TD>
+					
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;" COLSPAN="1">&nbsp;&nbsp;&nbsp;&nbsp;Petroleum</TD>
+					
+					
+							<TD  COLSPAN="1">
+								0.00 
+							</TD>
+						
+							<TD  COLSPAN="1">
+								0.00 
+							</TD>
+						
+									<TD COLSPAN="1">
+										0.00 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.00 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.00 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.00 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.00 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.00 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.00 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.00 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.00 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.00 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.00 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.00 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.00 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.00 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.00 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.00 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.00 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.00 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.00 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.00 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.00 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.00 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.00 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.00 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.00 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.00 
+									</TD>
+								
+								<TD COLSPAN="1">
+									- - 
+								</TD>
+							
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;" COLSPAN="1">&nbsp;&nbsp;&nbsp;&nbsp;Natural&nbsp;Gas</TD>
+					
+					
+							<TD  COLSPAN="1">
+								0.01 
+							</TD>
+						
+							<TD  COLSPAN="1">
+								0.01 
+							</TD>
+						
+									<TD COLSPAN="1">
+										0.03 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.04 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.05 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.06 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.06 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.07 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.07 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.07 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.07 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.07 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.07 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.08 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.08 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.08 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.08 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.08 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.08 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.08 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.09 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.09 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.09 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.09 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.10 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.10 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.10 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.11 
+									</TD>
+								
+								<TD COLSPAN="1">
+									9.4%
+									
+								</TD>
+							
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;" COLSPAN="1">&nbsp;&nbsp;&nbsp;&nbsp;Coal</TD>
+					
+					
+							<TD  COLSPAN="1">
+								0.43 
+							</TD>
+						
+							<TD  COLSPAN="1">
+								0.43 
+							</TD>
+						
+									<TD COLSPAN="1">
+										0.43 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.43 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.43 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.43 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.43 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.43 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.43 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.43 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.43 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.43 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.43 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.43 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.43 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.43 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.43 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.43 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.43 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.43 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.43 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.43 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.43 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.43 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.43 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.43 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.43 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.43 
+									</TD>
+								
+								<TD COLSPAN="1">
+									0.0%
+									
+								</TD>
+							
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;" COLSPAN="1">&nbsp;&nbsp;&nbsp;&nbsp;Other&nbsp;5/</TD>
+					
+					
+							<TD  COLSPAN="1">
+								0.97 
+							</TD>
+						
+							<TD  COLSPAN="1">
+								0.97 
+							</TD>
+						
+									<TD COLSPAN="1">
+										0.97 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.97 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.97 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.97 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.97 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.97 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.97 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.97 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.97 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.97 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.97 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.97 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.97 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.97 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.97 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.97 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.97 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.97 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.97 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.97 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.97 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.97 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.97 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.97 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.97 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.97 
+									</TD>
+								
+								<TD COLSPAN="1">
+									0.0%
+									
+								</TD>
+							
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;" COLSPAN="1"><B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Total</B></TD>
+					
+					
+							<TD  COLSPAN="1">
+								<B> 1.40 </B>
+							</TD>
+						
+							<TD  COLSPAN="1">
+								<B> 1.41 </B>
+							</TD>
+						
+									<TD COLSPAN="1">
+										<B> 1.42 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 1.44 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 1.45 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 1.45 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 1.46 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 1.46 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 1.47 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 1.47 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 1.47 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 1.47 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 1.47 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 1.47 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 1.47 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 1.47 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 1.47 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 1.48 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 1.48 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 1.48 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 1.48 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 1.48 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 1.49 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 1.49 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 1.49 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 1.50 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 1.50 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 1.50 </B>
+									</TD>
+								
+								<TD COLSPAN="1">
+									<B> 0.3%
+									</B>
+								</TD>
+							
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;" COLSPAN="1"><B>&nbsp;&nbsp;Net&nbsp;Generation&nbsp;(billion&nbsp;kilowatthours)</B></TD>
+					
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;" COLSPAN="1">&nbsp;&nbsp;&nbsp;&nbsp;Petroleum</TD>
+					
+					
+							<TD  COLSPAN="1">
+								0.01 
+							</TD>
+						
+							<TD  COLSPAN="1">
+								0.01 
+							</TD>
+						
+									<TD COLSPAN="1">
+										0.01 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.01 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.01 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.01 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.01 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.01 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.01 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.01 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.01 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.01 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.01 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.01 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.01 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.01 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.01 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.01 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.01 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.01 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.01 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.01 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.01 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.01 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.01 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.01 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.01 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.01 
+									</TD>
+								
+								<TD COLSPAN="1">
+									0.0%
+									
+								</TD>
+							
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;" COLSPAN="1">&nbsp;&nbsp;&nbsp;&nbsp;Natural&nbsp;Gas</TD>
+					
+					
+							<TD  COLSPAN="1">
+								0.44 
+							</TD>
+						
+							<TD  COLSPAN="1">
+								0.47 
+							</TD>
+						
+									<TD COLSPAN="1">
+										0.60 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.71 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.78 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.83 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.86 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.89 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.91 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.92 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.93 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.94 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.95 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.95 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.96 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.97 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.98 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.98 
+									</TD>
+								
+									<TD COLSPAN="1">
+										1.00 
+									</TD>
+								
+									<TD COLSPAN="1">
+										1.01 
+									</TD>
+								
+									<TD COLSPAN="1">
+										1.03 
+									</TD>
+								
+									<TD COLSPAN="1">
+										1.05 
+									</TD>
+								
+									<TD COLSPAN="1">
+										1.08 
+									</TD>
+								
+									<TD COLSPAN="1">
+										1.11 
+									</TD>
+								
+									<TD COLSPAN="1">
+										1.13 
+									</TD>
+								
+									<TD COLSPAN="1">
+										1.15 
+									</TD>
+								
+									<TD COLSPAN="1">
+										1.17 
+									</TD>
+								
+									<TD COLSPAN="1">
+										1.20 
+									</TD>
+								
+								<TD COLSPAN="1">
+									3.6%
+									
+								</TD>
+							
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;" COLSPAN="1">&nbsp;&nbsp;&nbsp;&nbsp;Coal</TD>
+					
+					
+							<TD  COLSPAN="1">
+								2.27 
+							</TD>
+						
+							<TD  COLSPAN="1">
+								2.27 
+							</TD>
+						
+									<TD COLSPAN="1">
+										2.27 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.27 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.27 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.27 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.27 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.27 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.27 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.27 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.27 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.27 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.27 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.27 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.27 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.27 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.27 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.27 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.27 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.27 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.27 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.27 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.27 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.27 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.27 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.27 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.27 
+									</TD>
+								
+									<TD COLSPAN="1">
+										2.27 
+									</TD>
+								
+								<TD COLSPAN="1">
+									0.0%
+									
+								</TD>
+							
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;" COLSPAN="1">&nbsp;&nbsp;&nbsp;&nbsp;Other&nbsp;5/</TD>
+					
+					
+							<TD  COLSPAN="1">
+								3.61 
+							</TD>
+						
+							<TD  COLSPAN="1">
+								3.61 
+							</TD>
+						
+									<TD COLSPAN="1">
+										3.61 
+									</TD>
+								
+									<TD COLSPAN="1">
+										3.61 
+									</TD>
+								
+									<TD COLSPAN="1">
+										3.61 
+									</TD>
+								
+									<TD COLSPAN="1">
+										3.61 
+									</TD>
+								
+									<TD COLSPAN="1">
+										3.61 
+									</TD>
+								
+									<TD COLSPAN="1">
+										3.61 
+									</TD>
+								
+									<TD COLSPAN="1">
+										3.61 
+									</TD>
+								
+									<TD COLSPAN="1">
+										3.61 
+									</TD>
+								
+									<TD COLSPAN="1">
+										3.61 
+									</TD>
+								
+									<TD COLSPAN="1">
+										3.61 
+									</TD>
+								
+									<TD COLSPAN="1">
+										3.61 
+									</TD>
+								
+									<TD COLSPAN="1">
+										3.61 
+									</TD>
+								
+									<TD COLSPAN="1">
+										3.61 
+									</TD>
+								
+									<TD COLSPAN="1">
+										3.61 
+									</TD>
+								
+									<TD COLSPAN="1">
+										3.61 
+									</TD>
+								
+									<TD COLSPAN="1">
+										3.61 
+									</TD>
+								
+									<TD COLSPAN="1">
+										3.61 
+									</TD>
+								
+									<TD COLSPAN="1">
+										3.61 
+									</TD>
+								
+									<TD COLSPAN="1">
+										3.61 
+									</TD>
+								
+									<TD COLSPAN="1">
+										3.61 
+									</TD>
+								
+									<TD COLSPAN="1">
+										3.61 
+									</TD>
+								
+									<TD COLSPAN="1">
+										3.61 
+									</TD>
+								
+									<TD COLSPAN="1">
+										3.61 
+									</TD>
+								
+									<TD COLSPAN="1">
+										3.61 
+									</TD>
+								
+									<TD COLSPAN="1">
+										3.61 
+									</TD>
+								
+									<TD COLSPAN="1">
+										3.61 
+									</TD>
+								
+								<TD COLSPAN="1">
+									0.0%
+									
+								</TD>
+							
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;" COLSPAN="1"><B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Total</B></TD>
+					
+					
+							<TD  COLSPAN="1">
+								<B> 6.33 </B>
+							</TD>
+						
+							<TD  COLSPAN="1">
+								<B> 6.37 </B>
+							</TD>
+						
+									<TD COLSPAN="1">
+										<B> 6.49 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 6.61 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 6.67 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 6.72 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 6.76 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 6.78 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 6.80 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 6.81 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 6.82 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 6.83 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 6.84 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 6.85 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 6.85 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 6.86 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 6.87 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 6.88 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 6.89 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 6.90 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 6.92 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 6.95 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 6.97 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 7.00 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 7.02 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 7.04 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 7.07 </B>
+									</TD>
+								
+									<TD COLSPAN="1">
+										<B> 7.09 </B>
+									</TD>
+								
+								<TD COLSPAN="1">
+									<B> 0.4%
+									</B>
+								</TD>
+							
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;" COLSPAN="1"><B>&nbsp;&nbsp;&nbsp;&nbsp;Disposition</B></TD>
+					
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;" COLSPAN="1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sales&nbsp;to&nbsp;the&nbsp;Grid</TD>
+					
+					
+							<TD  COLSPAN="1">
+								0.82 
+							</TD>
+						
+							<TD  COLSPAN="1">
+								0.83 
+							</TD>
+						
+									<TD COLSPAN="1">
+										0.84 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.85 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.86 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.87 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.87 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.87 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.88 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.88 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.88 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.88 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.88 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.88 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.88 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.88 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.88 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.88 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.88 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.89 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.89 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.89 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.89 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.90 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.90 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.90 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.91 
+									</TD>
+								
+									<TD COLSPAN="1">
+										0.91 
+									</TD>
+								
+								<TD COLSPAN="1">
+									0.4%
+									
+								</TD>
+							
+				</TR>
+			
+				<TR>
+					<TD style="border-right: .5pt solid black;" COLSPAN="1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Generation&nbsp;for&nbsp;Own&nbsp;Use</TD>
+					
+					
+							<TD  COLSPAN="1">
+								5.51 
+							</TD>
+						
+							<TD  COLSPAN="1">
+								5.54 
+							</TD>
+						
+									<TD COLSPAN="1">
+										5.65 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.75 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.81 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.86 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.89 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.91 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.93 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.94 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.95 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.95 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.96 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.97 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.97 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.98 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.99 
+									</TD>
+								
+									<TD COLSPAN="1">
+										5.99 
+									</TD>
+								
+									<TD COLSPAN="1">
+										6.00 
+									</TD>
+								
+									<TD COLSPAN="1">
+										6.02 
+									</TD>
+								
+									<TD COLSPAN="1">
+										6.03 
+									</TD>
+								
+									<TD COLSPAN="1">
+										6.05 
+									</TD>
+								
+									<TD COLSPAN="1">
+										6.08 
+									</TD>
+								
+									<TD COLSPAN="1">
+										6.10 
+									</TD>
+								
+									<TD COLSPAN="1">
+										6.12 
+									</TD>
+								
+									<TD COLSPAN="1">
+										6.14 
+									</TD>
+								
+									<TD COLSPAN="1">
+										6.16 
+									</TD>
+								
+									<TD COLSPAN="1">
+										6.18 
+									</TD>
+								
+								<TD COLSPAN="1">
+									0.4%
+									
+								</TD>
+							
+				</TR>
+			
+	</TBODY>
+	
+	
+	<TFOOT>
+		
+		<TR style="border-top: .5pt solid black;">
+			<TD COLSPAN="30">&nbsp;&nbsp;&nbsp;&nbsp;1/&nbsp;Fuel&nbsp;consumption&nbsp;includes&nbsp;consumption&nbsp;for&nbsp;combined&nbsp;heat&nbsp;and&nbsp;power.</TD>
+		</TR>
+		
+		<TR >
+			<TD COLSPAN="30">&nbsp;&nbsp;&nbsp;&nbsp;2/&nbsp;Includes&nbsp;petroleum&nbsp;coke,&nbsp;lubricants,&nbsp;and&nbsp;miscellaneous&nbsp;petroleum&nbsp;products.</TD>
+		</TR>
+		
+		<TR >
+			<TD COLSPAN="30">&nbsp;&nbsp;&nbsp;&nbsp;3/&nbsp;Includes&nbsp;emissions&nbsp;attributable&nbsp;to&nbsp;the&nbsp;fuels&nbsp;consumed&nbsp;to&nbsp;generate&nbsp;the&nbsp;purchased&nbsp;electricity.</TD>
+		</TR>
+		
+		<TR >
+			<TD COLSPAN="30">&nbsp;&nbsp;&nbsp;&nbsp;4/&nbsp;Includes&nbsp;industrial-owned&nbsp;generators&nbsp;not&nbsp;classified&nbsp;as&nbsp;combined&nbsp;heat&nbsp;and&nbsp;power,&nbsp;such&nbsp;as&nbsp;standby&nbsp;generators.</TD>
+		</TR>
+		
+		<TR >
+			<TD COLSPAN="30">&nbsp;&nbsp;&nbsp;&nbsp;5/&nbsp;Includes&nbsp;wood&nbsp;and&nbsp;other&nbsp;biomass,&nbsp;waste&nbsp;heat,&nbsp;municipal&nbsp;waste,&nbsp;and&nbsp;renewable&nbsp;sources.</TD>
+		</TR>
+		
+		<TR >
+			<TD COLSPAN="30">&nbsp;&nbsp;&nbsp;&nbsp;Btu&nbsp;=&nbsp;British&nbsp;thermal&nbsp;unit.</TD>
+		</TR>
+		
+		<TR >
+			<TD COLSPAN="30">&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;-&nbsp;=&nbsp;Not&nbsp;applicable.</TD>
+		</TR>
+		
+		<TR >
+			<TD COLSPAN="30">&nbsp;&nbsp;&nbsp;&nbsp;Note:&nbsp;&nbsp;Totals&nbsp;may&nbsp;not&nbsp;equal&nbsp;sum&nbsp;of&nbsp;components&nbsp;due&nbsp;to&nbsp;independent&nbsp;rounding.&nbsp;&nbsp;Data&nbsp;for&nbsp;2008&nbsp;and</TD>
+		</TR>
+		
+		<TR >
+			<TD COLSPAN="30">2009&nbsp;are&nbsp;model&nbsp;results&nbsp;and&nbsp;may&nbsp;differ&nbsp;slightly&nbsp;from&nbsp;official&nbsp;EIA&nbsp;data&nbsp;reports.</TD>
+		</TR>
+		
+		<TR >
+			<TD COLSPAN="30">&nbsp;&nbsp;&nbsp;&nbsp;Source:&nbsp;&nbsp;2008&nbsp;and&nbsp;2009&nbsp;combined&nbsp;heat&nbsp;and&nbsp;power&nbsp;capacity&nbsp;and&nbsp;net&nbsp;generation:&nbsp;&nbsp;Energy</TD>
+		</TR>
+		
+		<TR >
+			<TD COLSPAN="30">Information&nbsp;Administration&nbsp;(EIA),&nbsp;Form&nbsp;EIA-860:&nbsp;&nbsp;Annual&nbsp;Electric&nbsp;Generator&nbsp;Report</TD>
+		</TR>
+		
+		<TR >
+			<TD COLSPAN="30">and&nbsp;2009&nbsp;data&nbsp;based&nbsp;on:&nbsp;&nbsp;EIA,&nbsp;Manufacturing&nbsp;Energy&nbsp;Consumption&nbsp;Survey,&nbsp;2006.&nbsp;&nbsp;Projections:&nbsp;EIA,&nbsp;AEO2011&nbsp;National</TD>
+		</TR>
+		
+		<TR >
+			<TD COLSPAN="30">Energy&nbsp;Modeling&nbsp;System.</TD>
+		</TR>
+		
+	</TFOOT>
+</TABLE>
+
+</HTML>

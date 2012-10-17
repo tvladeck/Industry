@@ -1,0 +1,2385 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=us-ascii">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 11">
+<link rel=File-List href="test_files/filelist.xml">
+<link rel=Edit-Time-Data href="test_files/editdata.mso">
+<link rel=OLE-Object-Data href="test_files/oledata.mso">
+<title>ENERGY STAR Labeled Buildings and Plants : ENERGY STAR</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor>Administrator</o:LastAuthor>
+  <o:Created>2008-12-19T02:46:00Z</o:Created>
+  <o:LastSaved>2008-12-19T02:46:00Z</o:LastSaved>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-numberformat:general;}
+table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{mso-header-data:"&CLabeled Buildings";
+	mso-footer-data:"&CPage &P of &N";
+	margin:1.0in 0in 1.0in 0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-page-orientation:landscape;}
+.font6
+	{color:black;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Narrow", sans-serif;
+	mso-font-charset:0;}
+.font8
+	{color:black;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Narrow", sans-serif;
+	mso-font-charset:0;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style30
+	{color:blue;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:Hyperlink;
+	mso-style-id:8;}
+a:link
+	{color:blue;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+a:visited
+	{color:purple;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	color:black;
+	font-weight:700;
+	font-family:"Arial Narrow", sans-serif;
+	mso-font-charset:0;
+	text-align:left;
+	border:.5pt dotted windowtext;
+	white-space:normal;}
+.xl25
+	{mso-style-parent:style30;
+	color:blue;
+	text-decoration:underline;
+	text-underline-style:single;
+	text-align:left;
+	border:.5pt dotted windowtext;
+	white-space:normal;}
+.xl26
+	{mso-style-parent:style0;
+	color:black;
+	font-family:"Arial Narrow", sans-serif;
+	mso-font-charset:0;
+	text-align:left;
+	border:.5pt dotted windowtext;
+	white-space:normal;}
+.xl27
+	{mso-style-parent:style0;
+	color:black;
+	font-size:15.0pt;
+	font-weight:700;
+	font-family:"Arial Narrow", sans-serif;
+	mso-font-charset:0;
+	text-align:left;
+	border-top:.5pt dotted windowtext;
+	border-right:none;
+	border-bottom:.5pt dotted windowtext;
+	border-left:.5pt dotted windowtext;
+	white-space:normal;}
+.xl28
+	{mso-style-parent:style0;
+	color:black;
+	font-size:15.0pt;
+	font-weight:700;
+	font-family:"Arial Narrow", sans-serif;
+	mso-font-charset:0;
+	text-align:left;
+	border-top:.5pt dotted windowtext;
+	border-right:none;
+	border-bottom:.5pt dotted windowtext;
+	border-left:none;
+	white-space:normal;}
+.xl29
+	{mso-style-parent:style0;
+	color:black;
+	font-size:15.0pt;
+	font-weight:700;
+	font-family:"Arial Narrow", sans-serif;
+	mso-font-charset:0;
+	text-align:left;
+	border-top:.5pt dotted windowtext;
+	border-right:.5pt dotted windowtext;
+	border-bottom:.5pt dotted windowtext;
+	border-left:none;
+	white-space:normal;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>Sheet1</x:Name>
+    <x:WorksheetOptions>
+     <x:FitToPage/>
+     <x:FitToPage/>
+     <x:Print>
+      <x:FitHeight>50</x:FitHeight>
+      <x:ValidPrinterInfo/>
+      <x:HorizontalResolution>600</x:HorizontalResolution>
+      <x:VerticalResolution>600</x:VerticalResolution>
+     </x:Print>
+     <x:Selected/>
+     <x:DoNotDisplayGridlines/>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveRow>3</x:ActiveRow>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>8865</x:WindowHeight>
+  <x:WindowWidth>14850</x:WindowWidth>
+  <x:WindowTopX>0</x:WindowTopX>
+  <x:WindowTopY>1425</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+ <x:ExcelName>
+  <x:Name>Print_Titles</x:Name>
+  <x:SheetIndex>1</x:SheetIndex>
+  <x:Formula>=Sheet1!$3:$3</x:Formula>
+ </x:ExcelName>
+</xml><![endif]-->
+  </head>
+
+<body link=blue vlink=purple style='mso-header-data:Header'>
+<table x:str border=0 cellpadding=0 cellspacing=0 width=1506 style='border-collapse:
+ collapse;table-layout:fixed;width:1130pt'>
+ <col width=83 style='mso-width-source:userset;mso-width-alt:3035;width:62pt'>
+ <col width=285 style='mso-width-source:userset;mso-width-alt:10422;width:214pt'>
+ <col width=112 style='mso-width-source:userset;mso-width-alt:4096;width:84pt'>
+ <col width=293 style='mso-width-source:userset;mso-width-alt:10715;width:220pt'>
+ <col width=115 style='mso-width-source:userset;mso-width-alt:4205;width:86pt'>
+ <col width=225 style='mso-width-source:userset;mso-width-alt:8228;width:169pt'>
+ <col width=83 style='mso-width-source:userset;mso-width-alt:3035;width:62pt'>
+ <col width=40 style='mso-width-source:userset;mso-width-alt:1462;width:30pt'>
+ <col width=42 style='mso-width-source:userset;mso-width-alt:1536;width:32pt'>
+ <col width=87 style='mso-width-source:userset;mso-width-alt:3181;width:65pt'>
+ <col width=87 style='mso-width-source:userset;mso-width-alt:3181;width:65pt'>
+ <col width=105 style='mso-width-source:userset;mso-width-alt:3840;width:79pt'>
+ <col width=119 style='mso-width-source:userset;mso-width-alt:4352;width:89pt'>
+ <tr height=26 style='mso-height-source:userset;height:19.5pt'>
+  <td colspan=12 height=26 class=xl27 width=1506 style='border-right:.5pt dotted black;
+  height:19.5pt;width:1130pt'>ENERGY STAR Labeled Buildings <font class="font6">as of July 30, 2012 3:17:27 PM</font></td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td class=xl24 width=83 style='border-top:none;border-left:none;width:62pt'>B_ID</td>
+  <td height=20 class=xl24 width=285 style='height:15.0pt;border-top:none;width:214pt'>Building Name</td>
+  <td class=xl24 width=112 style='border-top:none;border-left:none;width:84pt'>Building Type</td>
+  <td class=xl24 width=293 style='border-top:none;border-left:none;width:220pt'>Building Owner</td>
+  <td class=xl24 width=115 style='border-top:none;border-left:none;width:86pt'>Property Manager</td>
+  <td class=xl24 width=225 style='border-top:none;border-left:none;width:169pt'>Address</td>
+  <td class=xl24 width=83 style='border-top:none;border-left:none;width:62pt'>City</td>
+  <td class=xl24 width=40 style='border-top:none;border-left:none;width:30pt'>State</td>
+  <td class=xl24 width=42 style='border-top:none;border-left:none;width:32pt'>Zip</td>
+  <td class=xl24 width=87 style='border-top:none;border-left:none;width:65pt'>Label Year(s)</td>
+  <td class=xl24 width=87 style='border-top:none;border-left:none;width:65pt'>Rating(s)</td>
+  <td class=xl24 width=105 style='border-top:none;border-left:none;width:79pt'>Floor Space FT<font class="font8"><sup>2</sup></font></td>
+  <td class=xl24 width=119 style='border-top:none;border-left:none;width:89pt'>Year Constructed</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>242</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_242"> River Cement Plant (Festus)</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cement</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Buzzi Unicem USA, Inc.</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'></td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Festus</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>MO</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>63028</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2011, 2010, 2009</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>881</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_881">Alamo Cement Company</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cement</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Buzzi Unicem USA, Inc.</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>6055 West Green Mountain Road</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>San Antonio</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>TX</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>78266</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2012</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>81</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_81">Allergan Pharmaceuticals Waco Texas</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Pharmaceutical Manufacturing</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Allergan, Inc.</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>8301 Mars Drive</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Waco</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>TX</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>76712</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2011, 2010, 2009, 2008</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>601</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_601">Ashland Plant</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cookies and Crackers</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Snyder's - Lance, Inc.</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>2041 Claremont Ave.</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Ashland</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>OH</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>44805</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2010</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>644</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_644">Augusta Bakery</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cookies and Crackers</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Kellogg Company</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>1550 Marvin Griffin Road</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Augusta</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>GA</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>30906</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2012, 2010</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>32</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_32">Baton Rouge Refinery</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Petroleum Refinery</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>ExxonMobil Corporation</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>4045 Scenic Highway</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Baton Rouge </td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>LA</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>70805</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2007</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>33</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_33">Billings Refinery</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Petroleum Refinery</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>ConocoPhillips</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>401 South 23rd St</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Billings </td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>MT</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>59101</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2011, 2007, 2006</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>821</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_821">Boardman Plant</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Frozen Fried Potato Processing</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>ConAgra Foods Inc.</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>600 NE Columbia Avenue</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Boardman</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>OR</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>97818</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2011</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>182</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_182">Boehringer Ingelheim Roxane, Inc.</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Pharmaceutical Manufacturing</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Boehringer Ingelheim Roxane, Inc.</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>1809 Wilson Road</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Columbus</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>OH</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>43228</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2010, 2009</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>31</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_31">Branford Plant</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cement</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Suwannee American Cement, LLC</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>5117 US Hwy 27</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Branford</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>FL</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>32020</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2009, 2008, 2007</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>563</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_563">Bremner Food Group - Poteau, OK</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cookies and Crackers</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Ralcorp Holdings, Inc.</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>400 Industrial Blvd.</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Poteau</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>OK</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>74953</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2010</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>562</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_562">Bremner Food Group - South Beloit, IL </a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cookies and Crackers</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Ralcorp Holdings, Inc.</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>1450 Pate Plaza Dr.</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>South Beloit</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>IL</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>61080</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2010</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>581</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_581">Bremner Food Group - Tonawanda, NY</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cookies and Crackers</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Ralcorp Holdings, Inc.</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>570 Fillmore Ave.</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Tonawanda</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>NY</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>14150</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2010</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>322</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_322">Burley, ID</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Frozen Fried Potato Processing</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>McCain Foods, Inc.</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>218 West Hightway 30</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Burley</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>ID</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>83318</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2010, 2009</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>55</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_55">Canton Plant</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Auto Assembly</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Nissan North America, Inc.</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>300 Nissan Drive</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Canton</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>MS</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>39046</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2011, 2010, 2009, 2008, 2007, 2006</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>281</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_281">Cape Girardeau</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cement</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Buzzi Unicem USA, Inc.</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>2524 South Sprigg St.</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Cape Girardeau</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>MO</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>63701</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2009</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>302</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_302">Cargill Corn Milling Blair</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Wet Corn Milling</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Cargill, Incorporated</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>650 Industrial Park Drive</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Blair</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>NE</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>68008</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2011, 2010, 2009</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>303</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_303">Cargill Corn Milling Cedar Rapids</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Wet Corn Milling</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Cargill, Incorporated</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>1710 16th Street, Southeast</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Cedar Rapids</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>IA</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>52401</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2011, 2010, 2009</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>304</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_304">Cargill Corn Milling Eddyville</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Wet Corn Milling</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Cargill, Incorporated</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>17540 Monroe-Wapello Road</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Eddyville</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>IA</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>52553</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2011, 2010, 2009</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>301</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_301">Cargill Corn Milling Wahpeton</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Wet Corn Milling</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Cargill, Incorporated</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>18049 County Road 8 East</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Wahpeton</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>ND</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>58075</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2011, 2010, 2009</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>643</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_643">Cary Bakery</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cookies and Crackers</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Kellogg Company</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>1 Quality Lane</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Cary</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>NC</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>27513</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2012, 2010</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>701</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_701">CEMEX Balcones Cement Plant</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cement</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>CEMEX USA</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>2580 Wald Road</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>New Braunfels</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>TX</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>78132</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2011</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>961</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_961">CEMEX Brooksville South Cement Plant</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cement</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>CEMEX USA</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>10311 Cement Plant Road</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Brooksville</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>FL</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>34601</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2012</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>23</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_23">CEMEX Clinchfield Cement Plant</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cement</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>CEMEX USA</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>2720 Highway 341 South</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Clinchfield </td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>GA</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>31013</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2012, 2011, 2010, 2009, 2008, 2007</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>22</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_22">CEMEX Davenport Cement Plant</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cement</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>CEMEX USA</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>700 Highway 1</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Davenport</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>CA</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>95017</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2008, 2007</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>261</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_261">CEMEX Demopolis Cement Plant</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cement</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>CEMEX USA</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>1617 Arcola Road</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Demopolis</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>AL</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>36732</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2011, 2010, 2009</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>962</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_962">CEMEX Fairborn Cement Plant</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cement</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>CEMEX USA</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>3250 Linebaugh Road</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Xenia</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>OH</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>45385</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2012</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>67</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_67">CEMEX Knoxville Cement Plant</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cement</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>CEMEX USA</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>6212 Cement Plant Road</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Knoxville</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>TN</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>37924</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2008</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>24</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_24">CEMEX Kosmos Louisville Cement Plant</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cement</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>CEMEX USA</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>15301 Dixie Highway</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Louisville</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>KY</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>40272</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2011, 2010, 2009, 2008, 2007</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>721</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_721">CEMEX Miami Cement Plant</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cement</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>CEMEX USA</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>1200 NW 137th Ave.</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Miami</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>FL</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>33182</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2012, 2011</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>981</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_981">CEMEX Victorville Cement Plant</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cement</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>CEMEX USA</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>16888 North E Street</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Victorville</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>CA</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>92394</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2012</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>65</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_65">CEMEX Wampum Cement Plant</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cement</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>CEMEX USA</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>2001 Portland Park Road</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Wampum</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>PA</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>16157</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2009, 2008</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>25</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_25">Chanute Plant</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cement</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Ash Grove Cement Company</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>1801 N. Santa Fe Ave.</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Chanute</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>KS</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>66720</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2008, 2007, 2006</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>663</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_663">Charlotte Bakery</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cookies and Crackers</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Kellogg Company</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>933 Louise Avenue</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Charlotte</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>NC</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>28204</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2012, 2010</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>45</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_45">Chicago Assembly Plant</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Auto Assembly</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Ford Motor Company, World Headquarters Division</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>12600 South Torrence Ave</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Chicago</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>IL</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>60633</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2006</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>662</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_662">Cincinnati Bakery</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cookies and Crackers</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Kellogg Company</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>1 Trade Street</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Cincinnati</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>OH</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>45227</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2012, 2010</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>57</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_57">Clarkdale Plant</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cement</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Salt River Materials Group</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>3000 West Cement Plant Road</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Clarkdale</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>AZ</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>86324</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2011, 2010, 2009, 2008, 2007</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>28</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_28">Colton Plant</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cement</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>CalPortland Company</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>695 S Rancho Avenue</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Colton</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>CA</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>92324</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2010, 2009, 2008, 2007, 2006</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>642</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_642">Columbus Bakery</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cookies and Crackers</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Kellogg Company</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>3700 Victory Drive</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Columbus</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>GA</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>31903</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2012, 2010</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>462</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_462">ConAgra Foods Lamb Weston, Inc. Richland</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Frozen Fried Potato Processing</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>ConAgra Foods Inc.</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>2013 Saint St.</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Richland</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>WA</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>99352</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2011, 2010</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>621</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_621">Dearborn Truck Plant</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Auto Assembly</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Ford Motor Company, World Headquarters Division</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>3001 Miller Road</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Dearborn</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>MI</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>48120</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2010</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>61</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_61">Devil's Slide Cement Plant</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cement</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Holcim, Inc.</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>6055 Croyden Road</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Morgan</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>UT</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>84050</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2011, 2010, 2009, 2008</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>326</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_326">Durkee</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cement</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Ash Grove Cement Company</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>33060 Shirttail Creek Road</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Durkee</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>OR</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>97905</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2009</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>42</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_42">East Liberty Auto Plant</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Auto Assembly</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Honda of America Manufacturing</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>11000 State Route 347 </td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>East Liberty</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>OH</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>43319</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2011, 2010, 2009, 2008, 2007, 2006</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>321</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_321">Easton, ME</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Frozen Fried Potato Processing</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>McCain Foods, Inc.</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>319 Richardson Road</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Easton</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>ME</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>4740</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2010, 2009</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>661</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_661">Florence Bakery</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cookies and Crackers</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Kellogg Company</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>500 Weaver Road</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Florence</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>KY</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>41042</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2012, 2010</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>64</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_64">GCC Tijeras Cement Plant, NM</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cement</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>GCC of America</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>11783 S. Highway 337</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Tijeras </td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>NM</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>87059</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2009, 2008</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>761</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_761">GM Lansing Delta Township Assembly Plant</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Auto Assembly</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>General Motors Company</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>8175 Millett Highway</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Lansing</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>MI</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>48917</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2011</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>421</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_421">Heinz Froze Food Co. Ontario, OR</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Frozen Fried Potato Processing</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Heinz North America</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>175 NE 6th Avenue</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Ontario</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>OR</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>97914</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2010</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>63</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_63">Holcim (Texas) L.P.</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cement</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Holcim, Inc.</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>1800 Dove Lane</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Middlothian</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>TX</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>76065</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2009, 2008</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>382</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_382">Holly Hill</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cement</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Holcim, Inc.</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>200 Safety St. / Hwy 453</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Holly Hill</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>SC</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>29059</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2011, 2010</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>44</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_44">Honda Manufacturing of Alabama, LLC</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Auto Assembly</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Honda of America Manufacturing</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>1800 Honda Drive</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Lincoln </td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>AL</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>35096</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2008, 2006</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>941</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_941">Hyundai Motor Manufacturing Alabama (HMMA)</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Auto Assembly</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Hyundai</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>700 Hyundai Boulevard</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Montgomery</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>AL</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>36105</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2012</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>222</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_222">Intervet/Schering-Plough Animal Health</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Pharmaceutical Manufacturing</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Merck</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>21401 W. Center Rd.</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Elkhorn</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>NE</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>68022</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2011, 2010, 2009</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>161</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_161">J.R. Simplot Aberdeen Potato Processing Facility</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Frozen Fried Potato Processing</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>J.R. Simplot</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>624 Simplot Loop</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Aberdeen</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>ID</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>83210</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2011, 2010, 2009</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>181</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_181">J.R. Simplot Othello Potato Procesisng Facility</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Frozen Fried Potato Processing</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>J.R. Simplot</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>1201 North Broadway Avenue</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Othello</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>WA</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>99344</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2011, 2010, 2009</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>47</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_47">Kansas City Assembly Plant</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Auto Assembly</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Ford Motor Company, World Headquarters Division</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>8121 NE Highway 69</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Claycomo</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>MO</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>64119</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2010, 2009, 2008, 2006</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>41</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_41">Kansas City Plant</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Wet Corn Milling</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>National Starch and Chemical Company</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>1001 Bedford Ave.</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Kansas City</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>MO</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>64116</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2006</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>34</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_34">Lake Charles Refinery</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Petroleum Refinery</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>ConocoPhillips</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>2200 Old Spanish Trail</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Westlake</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>LA</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>70669</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2006</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>461</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_461">Lamb Weston/RDO Frozen Co. Park Rapids</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Frozen Fried Potato Processing</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>ConAgra Foods Inc.</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>3704 Park Ave. South</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Park Rapids</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>MN</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>56470</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2011, 2010</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>441</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_441">Lance Private Brands</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cookies and Crackers</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Snyder's - Lance, Inc.</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>3000 Mt. Pleasant Rd.</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Burlington</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>IA</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>52601</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2010</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>681</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_681">Lance Private Brands - Columbus Bakery</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cookies and Crackers</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Snyder's - Lance, Inc.</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>900 8th Street</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Columbus</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>GA</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>31902</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2010</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>223</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_223">Las Piedras</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Pharmaceutical Manufacturing</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Merck</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>Rd. 183 PRIDCO Industrial Park</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Las Piedras</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>PR</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>771</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2011, 2010, 2009</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>325</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_325">Leamington</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cement</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Ash Grove Cement Company</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>Highway 132 </td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Nephi</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>UT</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>84648</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2009</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>36</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_36">Louisiana Refining Division</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Petroleum Refinery</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Marathon Petroleum Corporation</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>U. S. Highway 61 at Marathon Avenue</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Garyville</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>LA</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>70051</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2011, 2010, 2009, 2008, 2007, 2006</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>641</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_641">Louisville Bakery</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cookies and Crackers</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Kellogg Company</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>2287 Raplh Avenue</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Louisville</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>KY</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>40216</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2012, 2010</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>801</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_801">Lucerne Valley</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cement</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Mitsubishi Cement Corporation</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>5808 State Highway 18</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Lucerne Valley</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>CA</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>92356</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2011</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>224</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_224">Maryneal</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cement</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Buzzi Unicem USA, Inc.</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>202 County Road 306</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Maryneal </td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>TX</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>79535</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2011, 2010, 2009</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>43</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_43">Marysville Auto Plant</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Auto Assembly</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Honda of America Manufacturing</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>24000 Honda Parkway</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Marysville</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>OH</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>43040</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2011, 2010, 2009, 2008, 2007, 2006</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>221</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_221">Merck Healthcare Products</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Pharmaceutical Manufacturing</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Merck</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>4207 Michigan Ave. Rd. NE</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Cleveland</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>TN</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>37311</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2011, 2010, 2009, 2008</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>66</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_66">Michigan Refining Division</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Petroleum Refinery</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Marathon Petroleum Corporation</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>1300 South Fort Street</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Detroit</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>MI</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>48217</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2011, 2010, 2009, 2008, 2007</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>341</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_341">Midlothian Cement Plant</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cement</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>TXI Corporation</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>245 Ward Road</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Midlothian</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>TX</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>76065</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2010</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>27</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_27">Mojave Plant</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cement</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>CalPortland Company</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>9350 Oak Creek Road</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Mojave</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>CA</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>93501</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2007, 2006</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>561</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_561">Moses Lake Potato Processing Facility</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Frozen Fried Potato Processing</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>J.R. Simplot</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>14124 Wheeler Road NE</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Moses Lake</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>WA</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>98837</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2011, 2010</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>622</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_622">National Cement Company of Alabama Ragland Plant</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cement</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>National Cement Company of Alabama, Inc.</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>80 National Cement Drive</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Ragland</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>AL</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>35131</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2011, 2010</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>501</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_501">National Cement Company of California Lebec Plant</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cement</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>National Cement Company of California, Inc.</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>5 mi. East of I-5/off Hwy 138</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Lebec</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>CA</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>93243</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2011, 2010</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>121</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_121">Newark</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Pharmaceutical Manufacturing</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>AstraZeneca Pharmaceuticals LP and Astra Zeneca LP</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>587 Old Baltimore Pike</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Newark</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>DE</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>19702</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2011, 2010, 2009, 2008</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>48</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_48">Norfolk Assembly Plant</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Auto Assembly</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Ford Motor Company, World Headquarters Division</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>2424 Ford Drive</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Norfolk</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>VA</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>23523</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2006</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>781</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_781">North Sioux City</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cookies and Crackers</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Interbake Foods Inc.</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>One Devilsfood Drive</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>North Sioux City</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>SD</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>57049</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2011</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>49</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_49">NUMMI Passenger Car Plant</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Auto Assembly</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Toyota Motor Engineering & Manufacturing North America, Inc.</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>45500 Fremont Boulevard</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Fremont </td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>CA</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>94538</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2008, 2007, 2006</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>50</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_50">NUMMI Truck Plant </a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Auto Assembly</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Toyota Motor Engineering & Manufacturing North America, Inc.</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>45500 Fremont Boulevard</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Fremont</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>CA</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>94538</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2008, 2007, 2006</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>481</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_481">Oak State Products Inc.</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cookies and Crackers</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Oak State Products, Inc.</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>775 State Rte 251</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Wenona</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>IL</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>61377</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2012, 2010</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>35</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_35">Ohio Refining Division</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Petroleum Refinery</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Marathon Petroleum Corporation</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>2408 Gambrinus Avenue, SW</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Canton</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>OH</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>44706</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2011, 2010, 2009, 2008, 2007, 2006</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>323</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_323">Othello, WA</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Frozen Fried Potato Processing</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>McCain Foods, Inc.</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>100 Lee Street</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Othello</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>WA</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>99344</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2010, 2009</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>39</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_39">Penford Products Company</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Wet Corn Milling</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Penford Corporation</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>1001 1st Street, SW</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Cedar Rapids</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>IA</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>52404</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2006</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>901</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_901">Phillips 66 Bayway Refinery</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Petroleum Refinery</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>ConocoPhillips</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>1400 Park Ave.</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Linden</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>NJ</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>7036</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2012</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>324</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_324">Plover, WI</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Frozen Fried Potato Processing</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>McCain Foods, Inc.</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>Highway 54 & 110th Street</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Plover</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>WI</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>54467</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2010, 2009</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>741</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_741">Portland</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cement</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Holcim, Inc.</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>3500 East Highway 120</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Florence</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>CO</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>81226</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2011</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>841</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_841">Pryor Plant</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cement</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Buzzi Unicem USA, Inc.</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>2430 South 437 Road</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Pryor</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>OK</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>74361</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2011</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>861</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_861">Pulaski Manufacturing Facility</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cookies and Crackers</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Frito-Lay Inc.</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>298 Industrial Blvd.</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Pulaski</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>TN</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>38478</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2011</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>201</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_201">Quincy, WA</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Frozen Fried Potato Processing</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>ConAgra Foods Inc.</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>1005 E. Street, SW</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Quincy</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>WA</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>98848</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2011, 2009</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>401</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_401">Redding Plant</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cement</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Lehigh Cement Company</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>15390 Wonderland Blvd.</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Redding</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>CA</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>96003</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2010</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>442</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_442">Richmond Baking of Indiana</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cookies and Crackers</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Richmond Baking Company</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>520 N. 6th Street</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Richmond</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>IN</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>47375</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2010</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>921</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_921">Rillito Cement Plant</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cement</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>CalPortland Company</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>11115 Casa Grande Highway</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Rillito</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>AZ</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>85654</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2012</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>21</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_21">Roanoke Cement Company</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cement</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Titan America</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>6071 Catawba Road</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Troutville</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>VA</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>24175</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2012, 2011, 2010, 2009, 2008, 2007</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>30</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_30">Roberta Plant</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cement</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Lafarge North America</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>8039 Highway 25 West</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Calera</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>AL</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>35040</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2007, 2006</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>40</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_40">Sagamore Plant</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Wet Corn Milling</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Tate & Lyle Ingredients Americas, Inc.</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>2245 Sagamore Parkway North</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Lafayette</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>IN</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>47904</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2006</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>26</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_26">Seattle Plant</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cement</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Ash Grove Cement Company</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>3801 E Marginal Way S</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Seattle</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>WA</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>98134</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2008, 2007, 2006</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>241</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_241">Signal Mountain Plant (Chattanooga)</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cement</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Buzzi Unicem USA, Inc.</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'></td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Chattanooga</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>TN</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>37405</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2011, 2010, 2009</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>56</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_56">Smyrna Manufacturing Plant</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Auto Assembly</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Nissan North America, Inc.</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>983 Nissan Drive</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Smyrna </td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>TN</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>37167</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2011, 2010, 2009, 2008, 2007, 2006</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>37</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_37">St. Paul Park Refinery (Northern Tier Energy)</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Petroleum Refinery</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Marathon Petroleum Corporation</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>301 St. Paul Park Rd.</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>St. Paul Park</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>MN</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>55071</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2006</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>381</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_381">Ste. Genevieve</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cement</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Holcim, Inc.</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>2942 US Hwy 61</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Bloomsdale</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>MO</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>63627</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2011, 2010</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>29</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_29">Sugar Creek Plant</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cement</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Lafarge North America</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>2200 N. Courtney Road</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Sugar Creek</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>MO</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>64050</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2007, 2006</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>402</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_402">Tehachapi Plant</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cement</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Lehigh Cement Company</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>13573 Tehachapi Blvd.</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Tehachapi</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>CA</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>93561</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2010</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>38</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_38">Texas Refining Division</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Petroleum Refinery</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Marathon Petroleum Corporation</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>502 10th Street South</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Texas City</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>TX</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>77590</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2011, 2008, 2006</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>62</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_62">Theodore Cement Plant</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cement</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Holcim, Inc.</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>3051 Hamilton Blvd.</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Theodore</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>AL</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>36582</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2010, 2009, 2008</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>68</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_68">Titan America Pennsuco Cement Co.</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cement</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Titan America</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>11000 Northwest 121 Way</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Medley</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>FL</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>33166</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2012, 2011, 2010, 2009, 2008</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>52</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_52">TMMI East Plant</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Auto Assembly</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Toyota Motor Engineering & Manufacturing North America, Inc.</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>4000 Tulip Tree Drive</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Princeton</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>IN</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>47670</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2006</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>51</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_51">TMMI West Plant</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Auto Assembly</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Toyota Motor Engineering & Manufacturing North America, Inc.</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>4000 Tulip Tree Drive</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Princeton</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>IN</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>47670</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2006</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>53</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_53">TMMK Plant 1</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Auto Assembly</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Toyota Motor Engineering & Manufacturing North America, Inc.</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>1001 Cherry Blossom Way</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Georgetown</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>KY</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>40324</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2010, 2009, 2008, 2007, 2006</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>54</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_54">TMMK Plant 2</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Auto Assembly</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Toyota Motor Engineering & Manufacturing North America, Inc.</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>1001 Cherry Blossom Way</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Georgetown</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>KY</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>40324</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2012, 2010, 2008, 2007, 2006</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>361</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_361">Trident</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Cement</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Holcim, Inc.</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>4070 Trident Road</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Three Forks</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>MT</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>59752</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2010</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>46</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_46">Twin Cities Assembly Plant</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Auto Assembly</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Ford Motor Company, World Headquarters Division</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>966 S Mississippi River Blvd.</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>St. Paul</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>MN</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>55116</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2006</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>1021</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_1021">Verallia - Sapulpa</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Container Glass</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Saint-Gobain</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>1000 N. Mission Street</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Sapulpa</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>OK</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>74066</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2012</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>541</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_541">Verallia Dunkirk</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Container Glass</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Saint-Gobain</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>524 East Center Street</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Dunkirk</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>IN</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>47336</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2010</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>522</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_522">Verallia Milford</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Container Glass</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Saint-Gobain</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>One National Street</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Milford</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>MA</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>1757</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2012, 2010</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>521</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_521">Verallia Port Allegany</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Container Glass</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Saint-Gobain</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>One Glass Place</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Port Allegany</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>PA</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>16743</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2010</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>1001</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_1001">Verallia-Madera</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Container Glass</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>Saint-Gobain</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>2441 Avenue 12</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Madera</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>CA</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>93637</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2012</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <tr height=34 style='height:25.5pt'>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>101</td>
+  <td height=34 class=xl25 width=285 style='height:25.5pt;border-top:none;
+  width:214pt'><a href="http://www.energystar.gov/index.cfm?fuseaction=labeled_buildings.showplantProfile&plantprofile_id=p_101">Westborough</a></td>
+  <td class=xl26 width=112 style='border-top:none;border-left:none;width:84pt'>Pharmaceutical Manufacturing</td>
+  <td class=xl26 width=293 style='border-top:none;border-left:none;width:220pt'>AstraZeneca Pharmaceuticals LP and Astra Zeneca LP</td>
+  <td class=xl26 width=115 style='border-top:none;border-left:none;width:86pt'>N/A</td>
+  <td class=xl26 width=225 style='border-top:none;border-left:none;width:169pt'>50 Otis Street</td>
+  <td class=xl26 width=83 style='border-top:none;border-left:none;width:62pt'>Westborough</td>
+  <td class=xl26 width=40 style='border-top:none;border-left:none;width:30pt'>MA</td>
+  <td class=xl26 width=42 style='border-top:none;border-left:none;width:32pt;mso-number-format:\@'>1581</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>2011, 2010, 2009, 2008</td>
+  <td class=xl26 width=87 style='border-top:none;border-left:none;width:65pt;mso-number-format:\@'>N/A</td>
+  <td class=xl26 width=105 style='border-top:none;border-left:none;width:79pt;mso-number-format:\@'></td>
+  <td class=xl26 width=119 style='border-top:none;border-left:none;width:89pt;mso-number-format:\@'>N/A</td>
+ </tr>
+
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=83 style='width:62pt'></td>
+  <td width=285 style='width:214pt'></td>
+  <td width=112 style='width:84pt'></td>
+  <td width=293 style='width:220pt'></td>
+  <td width=115 style='width:86pt'></td>
+  <td width=225 style='width:169pt'></td>
+  <td width=83 style='width:62pt'></td>
+  <td width=40 style='width:30pt'></td>
+  <td width=42 style='width:32pt'></td>
+  <td width=87 style='width:65pt'></td>
+  <td width=87 style='width:65pt'></td>
+  <td width=105 style='width:79pt'></td>
+  <td width=119 style='width:89pt'></td>
+ </tr>
+ <![endif]>
+</table>
+</body>
+</html> 
+
+  
+ 
